@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "laba-4.1", "laba-4.1\laba-4.1.fsproj", "{F7649252-B1F2-40F4-B4AF-C877F56E8992}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "laba-4.2", "laba-4.2\laba-4.2.fsproj", "{DFF21CCB-EF8E-43A0-821E-96E2A6D9BF89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7649252-B1F2-40F4-B4AF-C877F56E8992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7649252-B1F2-40F4-B4AF-C877F56E8992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7649252-B1F2-40F4-B4AF-C877F56E8992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7649252-B1F2-40F4-B4AF-C877F56E8992}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFF21CCB-EF8E-43A0-821E-96E2A6D9BF89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF21CCB-EF8E-43A0-821E-96E2A6D9BF89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF21CCB-EF8E-43A0-821E-96E2A6D9BF89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF21CCB-EF8E-43A0-821E-96E2A6D9BF89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
