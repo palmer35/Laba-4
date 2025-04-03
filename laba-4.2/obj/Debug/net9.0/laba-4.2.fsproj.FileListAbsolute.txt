@@ -27,3 +27,4 @@ C:\Users\F\RiderProjects\laba-4\laba-4.2\obj\Debug\net9.0\refint\laba-4.2.dll
 C:\Users\F\RiderProjects\laba-4\laba-4.2\obj\Debug\net9.0\laba-4.2.pdb
 C:\Users\F\RiderProjects\laba-4\laba-4.2\obj\Debug\net9.0\laba-4.2.genruntimeconfig.cache
 C:\Users\F\RiderProjects\laba-4\laba-4.2\obj\Debug\net9.0\ref\laba-4.2.dll
+C:\Users\F\RiderProjects\laba-4\laba-4.2\obj\Debug\net9.0\laba-4.2.sourcelink.json
